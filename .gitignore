@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# PyCharm settings
+.idea/
+
+# Large dataset
+fer2013.csv
